@@ -1,4 +1,4 @@
-## Swagger implementation in Spring Boor ##
+## Swagger implementation in Spring Boot ##
 
 * Add validation dependency for generate validations with Swagger
 
@@ -18,6 +18,4 @@
 </dependency>
 ```
 
-[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-
-Use url to access Swagger Ui
+Use url to access Swagger Ui [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
